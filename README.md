@@ -1,128 +1,130 @@
-# Ernesto Otaqui 👋
+<div align="center">
 
-## Business Operations · Revenue Operations · Data Analytics
+# Ernesto Otaqui
 
-I enjoy turning operational complexity into scalable systems, clearer decisions, and measurable business impact.
+### Business Operations • Revenue Operations • Data Analytics
 
-I'm passionate about building businesses, improving operations, and using data to solve real-world problems—not just creating dashboards.
+<i>Turning operational complexity into scalable systems, clearer decisions, and measurable business impact.</i>
 
-🌐 **Portfolio:** https://ernestootaqui.vercel.app  
-💼 **LinkedIn:** https://linkedin.com/in/ernesto995
+<br><br>
+
+<a href="https://ernestootaqui.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-14243A?style=for-the-badge&logo=vercel&logoColor=FFD482&labelColor=14243A"/>
+</a>
+
+<a href="https://linkedin.com/in/ernesto995">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-14243A?style=for-the-badge&logo=linkedin&logoColor=ADD0FF&labelColor=14243A"/>
+</a>
+
+</div>
 
 ---
 
 ## About Me
 
-My background combines **Finance, Business Operations, and Data Analytics**.
+I'm a **Business Operations Analyst** with a background in **Finance, Business Operations, and Analytics**.
 
-Over the past few years I've worked across fintech, enterprise operations, and business systems, helping teams improve operational efficiency, revenue visibility, forecasting, reporting, and decision-making.
+I enjoy bringing **structure to ambiguity** by combining business thinking with technical execution.
 
-Today I'm expanding that foundation by building real-world products and analytics projects that combine business thinking with technical execution.
+Whether I'm building a business, improving an operational process, or developing an analytics workflow, my objective is always the same:
+
+> **Create clarity. Improve decisions. Build systems that scale.**
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🐺 LOBO
 
-A real-world direct-to-consumer business focused on healthier dog nutrition.
+> Real-world direct-to-consumer business for healthier dog nutrition.
 
-Instead of treating it as "just a website", I built the complete operational ecosystem:
+Instead of simply building a website, I designed and launched the complete business ecosystem.
 
-- Product strategy
-- Pricing
-- Customer journey
-- Payment integration
-- SEO foundation
-- Analytics
-- Operational workflows
-- Subscription model
+**Developed**  
+`Product Strategy` · `Pricing` · `Payments` · `SEO` · `Analytics` · `Subscriptions` · `Operations`
 
-🌐 https://eatlikeawolf.mx
+**Built With**  
+`Next.js` · `Tailwind CSS` · `Mercado Pago` · `Vercel`
+
+🌐 **Live Project:** https://eatlikeawolf.mx
 
 ---
 
 ### 📈 Revenue Forecasting
 
-Python-based forecasting project focused on helping businesses understand future revenue behavior and support operational planning.
+> Forecasting workflow supporting operational planning and business decision-making.
 
-**Focus**
+Built to transform historical revenue data into planning visibility and actionable business insights.
 
-- Time series analysis
-- Forecasting
-- Business recommendations
-- Scenario analysis
+**Focus**  
+`Forecasting` · `Time Series` · `Scenario Planning` · `Business Recommendations`
+
+**Built With**  
+`Python` · `Pandas` · `Jupyter Notebook` · `Matplotlib`
+
+🚧 Repository coming soon
 
 ---
 
 ### 📊 SQL Business Analysis
 
-Business-oriented SQL projects designed to answer operational questions rather than simply writing queries.
+> SQL case studies focused on solving real business problems.
 
-Topics include:
+Using SQL to answer operational questions, identify trends, and support better business decisions.
 
-- KPI analysis
-- Segmentation
-- Joins
-- Aggregations
-- Customer behavior
-- Operational insights
+**Focus**  
+`KPI Analysis` · `Customer Segmentation` · `Joins` · `Aggregations` · `Operational Reporting` · `Business Storytelling`
 
----
+**Built With**  
+`SQL` · `PostgreSQL`
 
-## What I Like Solving
-
-- Business Operations
-- Revenue Operations
-- Process Improvement
-- Forecasting
-- Business Analytics
-- Data Storytelling
-- KPI Design
-- Operational Strategy
-- Cross-functional Projects
+🚧 Repository coming soon
 
 ---
 
-## Tech Stack
+## 🧠 What I Like Solving
 
-**Analytics**
-
-- SQL
-- Python
-- Pandas
-- Excel
-
-**Business**
-
-- Revenue Analysis
-- Forecasting
-- Process Optimization
-- Financial Analysis
-- Business Operations
-
-**Development**
-
-- Next.js
-- React
-- Tailwind CSS
-- Git
-- GitHub
-- Vercel
+`Business Operations` · `Revenue Operations` · `Forecasting` · `Business Analytics` · `Process Improvement` · `Data Storytelling` · `Operational Strategy`
 
 ---
 
-## Current Focus
+## 🛠 Toolbox
 
-I'm currently building projects that connect:
-
-- Business Strategy
-- Operations
-- Analytics
-- Technology
-
-My goal is to bridge the gap between business problems and technical execution.
+| Analytics | Business | Development |
+|-----------|----------|-------------|
+| SQL | Revenue Operations | Next.js |
+| Python | Forecasting | React |
+| Pandas | Financial Analysis | Tailwind CSS |
+| Excel | Process Improvement | Git |
+| Data Visualization | Business Systems | Vercel |
 
 ---
 
-> *I believe the best analytics don't end with a dashboard—they improve how a business operates.*
+## 🌱 Currently Building
+
+- A portfolio centered around real-world business problems.
+- Revenue analytics case studies.
+- SQL portfolio.
+- Business systems connecting operations, finance, and technology.
+
+---
+
+## 📫 Let's Connect
+
+<a href="https://ernestootaqui.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-ernestootaqui.vercel.app-14243A?style=for-the-badge&logo=vercel&logoColor=FFD482&labelColor=14243A"/>
+</a>
+
+<a href="https://linkedin.com/in/ernesto995">
+<img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Otaqui-14243A?style=for-the-badge&logo=linkedin&logoColor=ADD0FF&labelColor=14243A"/>
+</a>
+
+📍 **Guadalajara, Mexico**
+
+---
+
+<div align="center">
+
+### *"The best analytics don't end with a dashboard — they improve how a business operates."*
+
+</div>
