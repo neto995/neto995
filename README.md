@@ -1,4 +1,4 @@
-# Hi, I'm Ernesto 👋
+# Ernesto Otaqui 👋
 
 ## Business Operations · Revenue Operations · Data Analytics
 
