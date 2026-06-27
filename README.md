@@ -8,13 +8,15 @@
 
 <br><br>
 
-<a href="https://ernestootaqui.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-14243A?style=for-the-badge&logo=vercel&logoColor=FFD482&labelColor=14243A"/>
-</a>
-
-<a href="https://linkedin.com/in/ernesto995">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-14243A?style=for-the-badge&logo=linkedin&logoColor=ADD0FF&labelColor=14243A"/>
-</a>
+<p align="center">
+  <a href="https://ernestootaqui.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ernestootaqui.vercel.app-ff8ab2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ernesto995">
+    <img src="https://img.shields.io/badge/LinkedIn-Ernesto_Otaqui-ff67a2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 </div>
 
@@ -41,10 +43,10 @@ Whether I'm building a business, improving an operational process, or developing
 Instead of simply building a website, I designed and launched the complete business ecosystem.
 
 **Developed**  
-`Product Strategy` · `Pricing` · `Payments` · `SEO` · `Analytics` · `Subscriptions` · `Operations`
+`Product Strategy` • `Pricing` • `Payments` • `SEO` • `Analytics` • `Subscriptions` • `Operations`
 
 **Built With**  
-`Next.js` · `Tailwind CSS` · `Mercado Pago` · `Vercel`
+`Next.js` • `Tailwind CSS` • `Mercado Pago` • `Vercel`
 
 🌐 **Live Project:** https://eatlikeawolf.mx
 
@@ -57,10 +59,10 @@ Instead of simply building a website, I designed and launched the complete busin
 Built to transform historical revenue data into planning visibility and actionable business insights.
 
 **Focus**  
-`Forecasting` · `Time Series` · `Scenario Planning` · `Business Recommendations`
+`Forecasting` • `Time Series` • `Scenario Planning` • `Business Recommendations`
 
 **Built With**  
-`Python` · `Pandas` · `Jupyter Notebook` · `Matplotlib`
+`Python` • `Pandas` • `Jupyter Notebook` • `Matplotlib`
 
 🚧 Repository coming soon
 
@@ -73,30 +75,24 @@ Built to transform historical revenue data into planning visibility and actionab
 Using SQL to answer operational questions, identify trends, and support better business decisions.
 
 **Focus**  
-`KPI Analysis` · `Customer Segmentation` · `Joins` · `Aggregations` · `Operational Reporting` · `Business Storytelling`
+`KPI Analysis` • `Customer Segmentation` • `Joins` • `Aggregations` • `Operational Reporting` • `Business Storytelling`
 
 **Built With**  
-`SQL` · `PostgreSQL`
+`SQL` • `PostgreSQL`
 
 🚧 Repository coming soon
 
----
-
-## 🧠 What I Like Solving
-
-`Business Operations` · `Revenue Operations` · `Forecasting` · `Business Analytics` · `Process Improvement` · `Data Storytelling` · `Operational Strategy`
 
 ---
 
 ## 🛠 Toolbox
 
-| Analytics | Business | Development |
-|-----------|----------|-------------|
-| SQL | Revenue Operations | Next.js |
-| Python | Forecasting | React |
-| Pandas | Financial Analysis | Tailwind CSS |
-| Excel | Process Improvement | Git |
-| Data Visualization | Business Systems | Vercel |
+**Analytics:** `SQL` • `Python` • `Pandas` • `Excel` • `Data Visualization`
+
+**Business:** `Business Operations` • `Revenue Operations` • `Forecasting` • `Financial Analysis` • `Process Improvement` • `Business Systems`
+
+**Development:** `Next.js` • `React` • `Tailwind CSS` • `Git` • `Vercel`
+
 
 ---
 
