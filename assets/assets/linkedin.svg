@@ -1,7 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
-  <rect width="160" height="40" rx="10" fill="#2f2f2f"/>
-  <text x="80" y="25" text-anchor="middle" fill="#ffffff"
-        font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44">
+  <rect width="180" height="44" rx="12" fill="#1f1f1f"/>
+  <text x="90" y="28"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Inter,Arial,sans-serif"
+        font-size="15"
+        font-weight="700">
     💼 LinkedIn
   </text>
 </svg>
+
