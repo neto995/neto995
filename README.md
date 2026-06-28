@@ -2,7 +2,7 @@
 
 # 𝐄𝐫𝐧𝐞𝐬𝐭𝐨 𝐎𝐭𝐚𝐪𝐮𝐢
 
-### 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 · 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 · 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
+### 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 · 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 · 𝐃𝐚𝐭𝐚 
 
 <i>Turning operational complexity into scalable systems, clearer decisions, and measurable business impact.</i>
 
