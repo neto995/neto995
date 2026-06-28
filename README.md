@@ -1,22 +1,22 @@
 <div align="center">
 
-# Ernesto Otaqui
+# 𝐄𝐫𝐧𝐞𝐬𝐭𝐨 𝐎𝐭𝐚𝐪𝐮𝐢
 
-### Business Operations • Revenue Operations • Data Analytics
+### 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 · 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 · 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
 
 <i>Turning operational complexity into scalable systems, clearer decisions, and measurable business impact.</i>
 
 <br><br>
 
-<p align="center">
-  <a href="https://ernestootaqui.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ernestootaqui.vercel.app-ff8ab2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ernesto995">
-    <img src="https://img.shields.io/badge/LinkedIn-Ernesto_Otaqui-ff67a2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://ernestootaqui.vercel.app">
+  <img src="assets/portfolio.svg" alt="Portfolio" width="180">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/ernesto995">
+  <img src="assets/linkedin.svg" alt="LinkedIn" width="180">
+</a>
 
 </div>
 
