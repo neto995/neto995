@@ -45,7 +45,7 @@ Instead of simply building a website, I designed and launched the complete busin
 `Next.js` • `Tailwind CSS` • `Mercado Pago` • `Vercel`
 
 🌐 **Live Project:** https://eatlikeawolf.mx
-🌐 **Social:** https://www.instagram.com/eatlikeawolf.mx
+📱 **Social:**  https://www.instagram.com/eatlikeawolf.mx
 ---
 
 ### 📈 Revenue Forecasting
