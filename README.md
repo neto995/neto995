@@ -6,7 +6,7 @@
 
 <i>Turning operational complexity into scalable systems, clearer decisions, and measurable business impact.</i>
 
-<a href="https://ernestootaqui.vercel.app">
+<a href="https://ernesto.otaqui.com">
   <img src="assets/portfolio.svg" alt="Portfolio" width="180">
 </a>
 
@@ -103,8 +103,8 @@ Using SQL to answer operational questions, identify trends, and support better b
 
 ## 📫 Let's Connect
 
-<a href="https://ernestootaqui.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-ernestootaqui.vercel.app-14243A?style=for-the-badge&logo=vercel&logoColor=FFD482&labelColor=14243A"/>
+<a href="https://ernestootaqui.com">
+<img src="https://img.shields.io/badge/Portfolio-ernestootaqui.com-14243A?style=for-the-badge&logo=vercel&logoColor=FFD482&labelColor=14243A"/>
 </a>
 
 <a href="https://linkedin.com/in/ernesto995">
