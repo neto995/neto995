@@ -6,7 +6,7 @@
 
 <i>Turning operational complexity into scalable systems, clearer decisions, and measurable business impact.</i>
 
-<a href="https://ernesto.otaqui.com">
+<a href="https://ernestootaqui.com">
   <img src="assets/portfolio.svg" alt="Portfolio" width="180">
 </a>
 
