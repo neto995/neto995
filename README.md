@@ -6,16 +6,12 @@
 
 <i>Turning operational complexity into scalable systems, clearer decisions, and measurable business impact.</i>
 
-<br><br>
-
 <a href="https://ernestootaqui.vercel.app">
   <img src="assets/portfolio.svg" alt="Portfolio" width="180">
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/ernesto995">
-  <img src="assets/linkedin.svg" alt="LinkedIn" width="180">
+  <img src="assets/linkedin_1.svg" alt="LinkedIn" width="180">
 </a>
 
 </div>
